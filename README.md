@@ -162,9 +162,8 @@ For the three possible results -- win, draw or lost, we write the details: the c
 ## Reference
 1. MASILANG, JOHN KEVIN and SASTADO EMARSON (Artificial
 Intelligence) TIC – TAC – TOE
-2. https://www.siammandalay.com/blogs/puzzles/how-to-win-tic-tac-
-toe-tricks-to-always-win-noughts-crosses
-3. https://en.wikipedia.org/wiki/
+3. https://www.siammandalay.com/blogs/puzzles/how-to-win-tic-tac-toe-tricks-to-always-win-noughts-crosses
+4. https://en.wikipedia.org/wiki/
 
 
 
