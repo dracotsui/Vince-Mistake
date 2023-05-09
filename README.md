@@ -160,11 +160,11 @@ For the three possible results -- win, draw or lost, we write the details: the c
 ### Overview of the probability that the first player will win in the game of Tic-Tac-Toe that against itself a number of play times
 
 ## Reference
-1 MASILANG, JOHN KEVIN and SASTADO EMARSON (Artificial
+1. MASILANG, JOHN KEVIN and SASTADO EMARSON (Artificial
 Intelligence) TIC – TAC – TOE
-2 https://www.siammandalay.com/blogs/puzzles/how-to-win-tic-tac-
+2. https://www.siammandalay.com/blogs/puzzles/how-to-win-tic-tac-
 toe-tricks-to-always-win-noughts-crosses
-3 https://en.wikipedia.org/wiki/
+3. https://en.wikipedia.org/wiki/
 
 
 
